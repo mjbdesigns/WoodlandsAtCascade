@@ -5,7 +5,10 @@
       "mcp__Claude_Preview__preview_start",
       "Bash(where python *)",
       "Bash(where python3 *)",
-      "Bash(where node *)"
+      "Bash(where node *)",
+      "Bash(dir \"C:\\\\Users\\\\Prefered User\\\\Documents\\\\PROJECTS\\\\WoodlandsAtCascade\\\\images\")",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
     ]
   }
 }
